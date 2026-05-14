@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3703",
+  "folder": "YouTube__watch_20260514074750_c6d761",
+  "base_name": "H_lya_Asl_n_n_Ofisini_Bast_-_Yeralt_14_B_l_m_eHYmzuBmJnA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HamedSahari/Cloud-Downloads-2/releases/tag/co-releases-v1-3703",
+  "files": [
+    {
+      "name": "H_lya_Asl_n_n_Ofisini_Bast_-_Yeralt_14_B_l_m_eHYmzuBmJnA_720p.mp4",
+      "url": "https://github.com/HamedSahari/Cloud-Downloads-2/releases/download/co-releases-v1-3703/H_lya_Asl_n_n_Ofisini_Bast_-_Yeralt_14_B_l_m_eHYmzuBmJnA_720p.mp4",
+      "api_url": "https://api.github.com/repos/HamedSahari/Cloud-Downloads-2/releases/assets/419986114",
+      "id": 419986114,
+      "size": 45382680,
+      "download_count": 0
+    }
+  ]
+}
