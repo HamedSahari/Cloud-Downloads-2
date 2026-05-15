@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6252",
+  "folder": "YouTube__watch_20260515180459_1325f8",
+  "base_name": "Nz-uHGMxeeo_Nz-uHGMxeeo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HamedSahari/Cloud-Downloads-2/releases/tag/co-releases-v1-6252",
+  "files": [
+    {
+      "name": "Nz-uHGMxeeo_Nz-uHGMxeeo_720p.mp4",
+      "url": "https://github.com/HamedSahari/Cloud-Downloads-2/releases/download/co-releases-v1-6252/Nz-uHGMxeeo_Nz-uHGMxeeo_720p.mp4",
+      "api_url": "https://api.github.com/repos/HamedSahari/Cloud-Downloads-2/releases/assets/421203765",
+      "id": 421203765,
+      "size": 139371250,
+      "download_count": 0
+    }
+  ]
+}
