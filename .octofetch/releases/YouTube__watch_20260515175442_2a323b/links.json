@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7684",
+  "folder": "YouTube__watch_20260515175442_2a323b",
+  "base_name": "M1CKzLFUkwA_M1CKzLFUkwA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/HamedSahari/Cloud-Downloads-2/releases/tag/co-releases-v1-7684",
+  "files": [
+    {
+      "name": "M1CKzLFUkwA_M1CKzLFUkwA_720p.mp4",
+      "url": "https://github.com/HamedSahari/Cloud-Downloads-2/releases/download/co-releases-v1-7684/M1CKzLFUkwA_M1CKzLFUkwA_720p.mp4",
+      "api_url": "https://api.github.com/repos/HamedSahari/Cloud-Downloads-2/releases/assets/421197308",
+      "id": 421197308,
+      "size": 160726199,
+      "download_count": 0
+    }
+  ]
+}
